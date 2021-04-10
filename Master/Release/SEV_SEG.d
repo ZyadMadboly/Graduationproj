@@ -1,0 +1,17 @@
+SEV_SEG.o: ../SEV_SEG.c ../SEV_SEG.h ../SEV_SEG_CONFIG.h \
+ ../CPU_CONFIGURATIONS.h ../BIT_MATH.h ../STD_TYPES.h ../DIO.h \
+ ../DIO_CONFIG.h
+
+../SEV_SEG.h:
+
+../SEV_SEG_CONFIG.h:
+
+../CPU_CONFIGURATIONS.h:
+
+../BIT_MATH.h:
+
+../STD_TYPES.h:
+
+../DIO.h:
+
+../DIO_CONFIG.h:
